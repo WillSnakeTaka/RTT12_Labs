@@ -1,0 +1,4 @@
+Hi, this is the testing file for our Lab1.
+Start from the beginning.
+Add a bit more
+Changing the file to see if git picks it up. 
